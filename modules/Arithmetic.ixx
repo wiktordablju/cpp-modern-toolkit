@@ -1,0 +1,13 @@
+export module Arithmetic;
+
+export int add(int a, int b) {
+	return a + b;
+}
+
+export int substract(int a, int b) {
+	return a - b;
+}
+
+export int multiply(int a, int b) {
+	return a * b;
+}
